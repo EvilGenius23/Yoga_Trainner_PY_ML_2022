@@ -15,6 +15,8 @@ https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe
 ------------------------------------------------------------------
 
 
+![alt text](https://editor.analyticsvidhya.com/uploads/53474logo_horizontal_color.png)
+
 
 MediaPipe: 
 
