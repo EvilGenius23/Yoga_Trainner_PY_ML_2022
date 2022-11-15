@@ -7,6 +7,10 @@ Computer Vission / ML Based Yoga Trainner (Assistant)
 
 ////Installing Required Libraries//// 
 
+
+![alt text](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
+
+
 Python 3.10:
 
 https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe
@@ -41,6 +45,7 @@ In Python interpreter, import the package and start using one of the solutions:
 ------------------------------------------------------------------
 
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/800px-OpenCV_Logo_with_text_svg_version.svg.png)
 
 OpenCV :
 
