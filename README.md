@@ -45,7 +45,7 @@ In Python interpreter, import the package and start using one of the solutions:
 ------------------------------------------------------------------
 
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/800px-OpenCV_Logo_with_text_svg_version.svg.png)
+![alt text](https://miro.medium.com/max/1400/1*S8Il5ethl3YFh0M9XKVz-A.png)
 
 OpenCV :
 
