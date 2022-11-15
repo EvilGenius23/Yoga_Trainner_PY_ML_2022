@@ -16,7 +16,7 @@ https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe
 
 
 
-MediaPipe 
+MediaPipe: 
 
 $ python3 -m venv mp_env && source mp_env/bin/activate
 
@@ -26,7 +26,7 @@ Install MediaPipe Python package and start Python interpreter:
 
 (mp_env)$ python3
 
-#testing installation
+testing installation:
 
 In Python interpreter, import the package and start using one of the solutions:
 
@@ -45,7 +45,7 @@ OpenCV :
 OpenCV can be directly downloaded and installed with the use of pip (package manager).
 To install OpenCV, just go to the command-line and type the following command:
 
-pip install opencv-python
+$pip install opencv-python
 
 
 
